@@ -16,3 +16,7 @@ In this picture you can see the final project assembly:
 
 I guide you to this Google Drive link, where you can find a demonstration video!
 https://drive.google.com/drive/folders/1meicwedXO-g11gR-mPuycaAZoO-kGMt7?usp=sharing
+
+# A Little Program Overview
+Below you will find a logical diagram of the program:
+<img width="1371" height="426" alt="Tach Logic Diagram" src="https://github.com/user-attachments/assets/951a5609-c413-48c4-bd48-651f9287b23b" />
