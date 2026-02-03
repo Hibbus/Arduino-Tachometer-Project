@@ -19,4 +19,5 @@ https://drive.google.com/drive/folders/1meicwedXO-g11gR-mPuycaAZoO-kGMt7?usp=sha
 
 # A Little Program Overview
 Below you will find a logical diagram of the program:
-<img width="1851" height="646" alt="Tach Logic Diagram" src="https://github.com/user-attachments/assets/68f06061-2343-4c06-9ec7-5df11ad5ca12" />
+
+<img width="2872" height="1007" alt="Tach Logic Diagram (1)" src="https://github.com/user-attachments/assets/888046a0-14d4-4328-b825-bf12714152f1" />
